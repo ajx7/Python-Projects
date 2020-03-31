@@ -1,0 +1,7 @@
+The Wordmaster
+
+by Ayush Anand Jha
+
+‘The Wordmaster’ is a text based menu driven game which allows its user to access the two different games that are “Jumble me Up!” and “Guess if you can!”. The game is based on testing the English vocabulary intelligence of the user. It is a simple game consisting of random , OS and sys module. 
+‘The Jumble me Up!’ game is that asks its user for guessing the correct word/phrase and assign the points i.e. 100, it deducts 10 points on each time of asking the hint. 
+The second game i.e. ‘Guess if you can!” ask it’s user to guess the correct fruit name by accessing through letters one by one. It gives user seven chances to win the game for every incorrect guess one chance will be removed.
